@@ -25,3 +25,24 @@
 
 //const x = null;
 //const y = undefined;
+
+//LISTA
+//const names = ["Mikenson", "Shella", "guerlande", 10, false];
+//const shella = names[0];
+//console.log(shella);
+
+//names.push("Pedro");
+//console.log(names);
+//names.unshift(40);
+//console.log(names);
+
+//names.pop();
+//names.pop();
+//names.pop();
+//console.log(names);
+
+//const sorteNames = names.sort();
+//console.log(names);
+//console.log(names.length);
+//const nameIsArray = Array.isArray(names);
+//console.log(nameIsArray);
